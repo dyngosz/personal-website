@@ -1,4 +1,4 @@
-baseURL = "https://wiktordyngosz.netlify.com"
+baseURL = "http://www.wiktordyngosz.pl"
 languageCode = "en-us"
 title = "Wiktor Dyngosz"
 theme = "vanilla-bootstrap-hugo-theme"
