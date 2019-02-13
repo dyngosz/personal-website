@@ -1,4 +1,4 @@
-baseURL = "http://www.wiktordyngosz.pl"
+baseURL = "https://www.wiktordyngosz.pl"
 languageCode = "en-us"
 title = "Wiktor Dyngosz"
 theme = "vanilla-bootstrap-hugo-theme"
