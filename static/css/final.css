@@ -1,0 +1,249 @@
+* {
+  box-sizing: border-box;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  -webkit-transition: 0.1s ease-in;
+  transition: 0.1s ease-in;
+}
+
+a:hover {
+  cursor: pointer;
+  opacity: 0.8;
+  -webkit-transform: translateY(-3px);
+          transform: translateY(-3px);
+
+}
+
+footer {
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 0px
+  max-width: 1000px;
+  margin: 0 auto;
+  display: flex !important;
+  justify-content: space-between;
+  border-bottom: 1px solid #F0F0F0;
+}
+
+.main-navigation {
+  z-index: 999;
+  width: 100%;
+  background: white;
+  height: 68px;
+  padding: 0;
+  margin: 0;
+  border-top: 1px solid #F0F0F0;
+  border-bottom: 1px solid #F0F0F0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.sub-navigation {
+  max-width: 445px;
+  height: inherit;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.main-navigation h5 {
+  position: absolute;
+  left: 90px;
+  top: 3px;
+  color: #777777;
+}
+
+@media all and (max-width: 400px) {
+  .main-navigation h5 {
+    top: 7px;
+    font-size: 12px;
+  }
+}
+
+.main-navigation-link {
+  color: #686868;
+  padding: 15px;
+  display: -webkit-box;
+  text-align: center !important;
+  display: -ms-flexbox;
+  display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  border-left: 1px solid #F0F0F0;
+}
+
+.icons a:first-child {
+  padding: 4px 4px 4px 0;
+}
+
+.icons a {
+  padding: 4px;
+}
+
+@media all and (max-width: 460px) {
+  .main-navigation-link {
+    font-size: 13px;
+    padding: 15px;
+  }
+  #about {
+    display: none;
+  }
+  #process-link {
+    display: none !important;
+  }
+}
+
+.logo:hover, .main-navigation-link:hover {
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.12);
+}
+
+
+section {
+  padding-top: 70px;
+  padding-bottom: 70px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.hero {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 auto;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  max-width: 1000px;
+}
+
+
+.hi {
+  font-size: 42px;
+  line-height: 0.4em;
+}
+
+.subtitle {
+  font-size: 28px;
+  color: #5A54AF;
+  font-weight: 300;
+}
+.subtitle2 {
+  font-size: 23px;
+  color: #5A54AF;
+  font-weight: 330;
+}
+
+.hero-left {
+  width: 400px;
+}
+
+.hero-right {
+  width: 500px;
+}
+
+.hero-right p {
+  /* color: #929292; */
+  font-size: 16px;
+  color: #777777;
+  letter-spacing: 0;
+  /* line-height: 25px; */
+  line-height: 1.8em;
+}
+
+.hero-right em {
+  font-style: normal !important;
+}
+
+.hero-right p a {
+  color: #574cdd;
+  text-decoration: underline;
+}
+
+.icons {
+  width: 160px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          /*justify-content: space-between;*/
+}
+
+.title {
+  /* My Process: */
+  font-family: Roboto;
+  font-weight: bold;
+  margin: 0;
+  font-size: 44px;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: 0.4em;
+}
+
+@media all and (max-width: 981px) {
+  .hero-left {
+    margin: 0 auto;
+    text-align: center;
+  }
+  .hero-left .icons {
+    margin: 0 auto;
+    justify-content: center;
+  }
+}
+
+@media all and (max-width: 842px) {
+  .link-div {
+    display: block;
+  }
+  .case-detail-link {
+      display: block;
+      width: 100%;
+      padding:25px;
+      text-align: center;
+  }
+}
+
+
+.active {
+  color: #574CDD !important;
+  transition: 0.2s ease-in-out;
+  border-bottom: 3px solid #574CDD;
+}
+
+.heart-icon {
+    height: 0.8em;
+    margin-top: -3px;
+    pointer-events: none;
+    vertical-align: middle;
+    width: 1em;
+}
+
+.codibly-logo {
+    max-width: 30%;
+    border-radius: 20%;
+}

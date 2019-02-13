@@ -1,0 +1,14 @@
+
+{{ define "main" }}
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+    <head>
+        {{ partial "head.html" . }}
+    </head>
+    <body>
+        <div>
+            {{ partial "personal.html" . }}
+        </div>
+    </body>
+</html>
+{{ end }}
