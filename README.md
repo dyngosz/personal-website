@@ -7,3 +7,8 @@ This repo contains code for my personal website which was created using [Hugo](h
 The site is deployed to my custom domain and hosted on [Netlify](https://www.netlify.com/).
 This website will serve as my portfolio and a place for my future blog posts and projects. 
 [Come check it out!](https://www.wiktordyngosz.pl/)
+
+##### Running locally
+```
+hugo server -D --watch --verbose
+```
