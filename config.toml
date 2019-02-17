@@ -45,7 +45,7 @@ pygmentsStyle = "pygments"
 [params.contact]
     email = "wiktor.dyngosz@gmail.com"
     twitter = "WiktorDyngosz"
-    linkedin = "https://www.linkedin.com/in/wiktor-dyngosz-aa09a298/"
+    linkedin = "https://www.linkedin.com/in/wiktordyngosz/"
     github = "dyngosz"
 
 [params.about]
