@@ -2,7 +2,7 @@ baseURL = "https://www.wiktordyngosz.pl"
 languageCode = "en-us"
 title = "Wiktor Dyngosz"
 theme = "vanilla-bootstrap-hugo-theme"
-googleAnalytics = "UA-123456789-1"
+googleAnalytics = "UA-134763748-1"
 
 # Uncomment below to enable syntax highlighting
 pygmentsCodefences = true
