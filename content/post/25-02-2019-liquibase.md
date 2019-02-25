@@ -205,4 +205,4 @@ To achieve that we just have to invoke **mvn liquibase:diff** and the *liquibase
 </databaseChangeLog>
 ```
 
-Only thing left would be to move those change sets to a specific file under a name following convention like *db/v0001.xml* and include them in our master changelog as mentioned before. **Good luck with all the database refactors**
+Only thing left would be to move those change sets to a specific file under a name following convention like *db/v0001.xml* and include them in our master changelog as mentioned before. **Good luck with all the database refactors in the future!**
