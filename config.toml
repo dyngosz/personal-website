@@ -56,8 +56,7 @@ pygmentsStyle = "pygments"
     enable = true
     subtitle = "Hi, I'm Wiktor"
     subtitle2 = "Java Developer from Wrocław, Poland."
-    aboutMe = ["**Currently working as Java Dev at [<img class=codibly-logo src=images/codibly.png>](https://www.codibly.com/).**",
-    "Over 5 years of experience in IT world. Always eager to learn, always keen to help. ",
-    "Lately focused mostly on scalable microservice applications deployed with modern Java & Spring stack. Remote work enthusiast. A chronic perfectionist. In my spare time I devour books (gotta love my Kindle) and play with Python & ML. ",
+    aboutMe = ["Over 5 years of experience in IT world. Always eager to learn, always keen to help. ",
+    "Lately focused mostly on scalable microservice applications deployed with modern Java & Spring stack. Remote work enthusiast. A chronic perfectionist. In my spare time I devour books (gotta love my Kindle) and lead Java courses for wannabe programmers (coming up). ",
     "I <i class=heart-icon data-feather=heart></i> all board sports: snowboard, surfing, wake, kite (still ToDo) and recently [splitboard](https://www.nonstopsnow.com/journal/what-is-splitboarding).",
     "I also write [a bit](/post/)."]
