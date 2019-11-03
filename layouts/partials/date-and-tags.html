@@ -9,3 +9,9 @@
   <a class="btn btn-sm btn-outline-dark tag-btn" href="{{ $href }}">{{ . }}</a>
   {{ end }}
 {{ end }}
+
+{{ with .Params.time }}
+<br>
+<i data-feather="clock"></i>
+{{ . }} minutes read
+{{ end }}
