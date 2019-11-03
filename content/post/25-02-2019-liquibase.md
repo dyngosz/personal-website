@@ -2,6 +2,7 @@
 title:  "Leveraging Liquibase to keep your database neat"
 date:   2019-02-25 15:00:00
 tags: ["java", "tech", "tools"]
+time: 6
 draft: false
 ---
 

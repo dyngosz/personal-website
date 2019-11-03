@@ -2,6 +2,7 @@
 title:  "How clean meat could revolutionize our lives"
 date:   2019-03-09 15:00:00
 tags: ["ideas", "life"]
+time: 6
 draft: false
 ---
 
