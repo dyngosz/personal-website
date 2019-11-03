@@ -8,7 +8,9 @@ draft: false
 
 When you think about the **crucial inventions of twentieth century** what comes to your mind? There's plethora of them like nuclear power, personal computers, antibiotics, automobiles, airplanes or the Internet. That's just the top of the iceberg when it comes to technology breakthroughs that humans made possible. What's important is that each one of those inventions changed our lives altogether. What's obvious is that we understand their significance and probably could explain their impact without going into details. Lately, I learned about an invention that seems to be barely noticed by most people and yet has a huge influence on us even if we don't notice it on daily basis. I am talking about the **shipping container**, which probably sounds boring at first, but becomes fascinating when you learn a bit more about this amazing innovation. This post is inspired by Marc Levinson's great book - [The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger](https://www.amazon.com/Box-Shipping-Container-Smaller-Economy-ebook/dp/B003U2TR5O).
 
-![Test](/images/posts/containers.jpg "Boxes, boxes everywhere!")
+| ![Test](/images/posts/containers.jpg) |
+|:--:|
+| *Boxes, boxes everywhere!* |
 
 ### Cargo at its best
 Transporting stuff is a logistical nightmare. We might not see it that way nowadays, with an excess of shipping options based
@@ -24,7 +26,9 @@ This idea of moving freight straight from ship to the truck was the main incenti
 Once people agreed to use the metal box and set some standards regarding container's length, width and mass as well as established processes of optimal loading and unloading, it was easy to put those rules to work all over the world. This meant that any ship could carry containers made by different manufacturers while being sure that they have the standard dimensions and that any port with infrastructure would handle the cargo in the same effective manner. **This standardization meant it was convenient, fast and as a result cheap to transport goods using metal box.** If it wasn't enough, containers were usually sealed off once filled with goods and the insides remained untouched until the arrival at destination. This meant there was no room for theft or contamination of cargo. Containers were and still are the optimal, cheapest and most secure way of transporting goods.
 But it wasn't always like that.
 
-![Test](/images/posts/containership.jpg "The regular container ship")
+| ![Test](/images/posts/containership.jpg) |
+|:--:|
+| *Not your average ship.* |
 
 ### The old way
 Before mass adoption of containers shipping was hard and by hard I mean **expensive and time-consuming**. Lack of any loading machines and special infrastructure meant that the whole work of loading cargo onto the ships was done solely by hard-working [stevedores](https://en.wikipedia.org/wiki/Stevedore) (now called _dockers_) that could rely only on their physical strength. The goods were usually transported in wooden crates, barrels or sacks which meant that stevedores needed to pick up each an every one of the items (like 100 kilograms sugar bags), get on the ship using accommodation ladder, place the goods, walk back and repeat those actions over and over again. When transporting bigger packages it was possible to use small cranes and maneuver the cargo using ropes and hooks. Still, it was a tedious job.
@@ -33,7 +37,9 @@ Because of all that labor, ships were often stuck for days in the port while wai
 
 Those specifics of cargo transport meant that it was much better to specialize in local markets. Companies were selling their goods to local customers and international trade was at much lower level. It was unusual for a company from Europe to order something from US since the costs of such a decision were really high. It was better to choose a local supplier that could deliver goods by roads using trucks without the need of a long and costly ocean travel. Then, in the middle of twentieth century a small change begun that later led to drastic cut in the shipping costs and made more than 90% of docker workforce obsolete.
 
-![Test](/images/posts/stevedores.jpg "Stevedores in a New York port - 1912 ")
+| ![Test](/images/posts/stevedores.jpg) |
+|:--:|
+| *Stevedores in a New York port - 1912* |
 
 ### The revolution
 The Father of container shipping - [Malcolm McLean](https://en.wikipedia.org/wiki/Malcom_McLean) begun his rise as a cargo transport magnate in 1934 when he opened McLean Trucking Company. In 1945, after the II World War, McLean controlled a booming business with 162 trucks hauling everything from cigarettes to textiles all over the United States. As Marc Levinson writes in his book: _An obsessive focus on cutting costs was the key to McLean Trucking's success_. Even though he was already really wealthy, Malcom McLean could not just sit and enjoy his success. That's why in 1953 in order to find a way how to cut the costs of transport even further, he came to a astounding idea of **putting truck trailers on ships** and ferrying them up and down the US coast without the need to use highways which at the time were quite costly.
