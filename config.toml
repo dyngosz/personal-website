@@ -55,9 +55,9 @@ pygmentsStyle = "pygments"
 [params.about]
     enable = true
     subtitle = "Hi, I'm Wiktor"
-    subtitle2 = "Java Dev & Salesforce Consultant" 
-    subtitle3 = "Based in Wrocław, Poland"
-    aboutMe = ["**Currently working as Salesforce Consultant at [<img class=logo src=images/vm.png>](https://www.vm.pl/)**",
+    subtitle2 = "Salesforce Consultant & Java Dev"
+    subtitle3 = "Based in Poland 🇵🇱"
+    aboutMe = ["**Currently working as a remote based Salesforce Consultant.**",
     "Over 5 years of experience in IT world. Always eager to learn, always keen to help. ",
     "Lately focused mostly on crafting beautiful Lightning components and working my way up towards Salesforce Certifications. Remote work enthusiast. A chronic perfectionist. In my spare time I devour books (gotta love my Kindle) and hike every mountain range possible. ",
     "I <i class=heart-icon data-feather=heart></i> all board sports: snowboard, surfing, wake, kite (still <i>ToDo</i>) and [splitboard](https://www.nonstopsnow.com/journal/what-is-splitboarding).",
