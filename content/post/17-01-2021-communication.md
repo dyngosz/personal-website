@@ -19,23 +19,29 @@ In this post I gathered a couple of simple rules that are based on my approach. 
 Don't leave any space for being wrongly understood. Always assume the recipient does not know all the details. General rule of thumb - your statements should always be self-explanatory.
 
 -  **Add all relevant details to prevent unnecessary questions**
+
 ```
   - Just contact Marc for more details
   - Do you mean Marc Meyers or Marc Johnson?
-  - Marc Meyers of course 
+  - Marc Meyers of course
   - How can I reach him?
   - Just write him a message. His email is marc@meyers.com
 ```
+
 This conversation could easily be avoided just by taking a few seconds more to scribble all the details in one sentence:
+
 ```
 - Just contact Marc Meyers for details - his email is marc@meyers.com
 ```
 
 -  **Use full dates to avoid ambiguity**
+
 ```
 - Hey Sarah, I have to take next Thursday off
 ```
+
 We can add more context to this information and make it understandable even if it will be reread in the future:
+
 ```
 - Hey Sarah, I have to take next Thursday (4.03.2021) off
 ```
@@ -44,6 +50,7 @@ We can add more context to this information and make it understandable even if i
 It never hurts to ask an accurate question. Don't waste your time trying to guess.
 
 - **Use `Do I understand correctly that...` phrase which helps to indicate your perception and quickly guide to any errors**
+
 ```
   - The info text is not clearly visible to the Users, please make it more readable.
   - Do I understand correctly that I should make the info text bigger (font size 14)?
@@ -68,9 +75,11 @@ Spend a few seconds more and make sure your message looks swell before sending i
 **Message #1:** Hey Tim, you said that we should make sure that all relevant data is entered in the system. I have a question about the implementation of the addUser function. The results are stored in the develop database. Do we also have to create an Account or Company object at the same time? I think we could use this SQL query: SELECT Id, Account FROM User WHERE Name = :userName
 
 **Message #2:** Hey Tim, you said:
+
  ```
  We should make sure that all relevant data is entered in the system.
- ```
+ ``` 
+
  I have a question about the implementation of the `addUser` function. The results are stored in the _develop_ database. Do we also have to create an `Account` or `Company` object at the same time? I think we could use this SQL query:
  ```sql
  SELECT Id, Account FROM User WHERE Name = :userName
