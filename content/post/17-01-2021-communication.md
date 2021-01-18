@@ -5,7 +5,7 @@ tags: ["ideas", "life"]
 time: 3
 draft: false
 ---
- 
+
 It's the beginning of 2021 and it looks like remote work will stay with us for good. More people are doing their jobs from home. [Big companies](https://twitter.com/tobi/status/1263483496087064579?s=20) join the movement by becoming fully distributed. Video calls take place of face to face meetings. Over the desk chatter is replaced with written text. Collaboration tools like Zoom, Slack or Teams are experiencing a rapid spike in the number of customers. Just in the first few months of 2020 the user base of Microsoft Teams [has more than doubled](https://www.statista.com/statistics/1033742/worldwide-microsoft-teams-daily-and-monthly-users/). Some people will love it, some will hate it. What's clear is that not everyone was prepared for this transformation.
 
 #### The ugly truth
@@ -22,7 +22,7 @@ Don't leave any space for being wrongly understood. Always assume the recipient 
 ```
   - Just contact Marc for more details
   - Do you mean Marc Meyers or Marc Johnson?
-  - Marc Meyers of course
+  - Marc Meyers of course 
   - How can I reach him?
   - Just write him a message. His email is marc@meyers.com
 ```
