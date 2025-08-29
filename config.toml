@@ -55,10 +55,11 @@ pygmentsStyle = "pygments"
 [params.about]
     enable = true
     subtitle = "Hi, I'm Wiktor"
-    subtitle2 = "Salesforce Consultant & Java Dev"
+    subtitle2 = "CEO and Founder at Peakforce"
     subtitle3 = "Based in Poland 🇵🇱"
-    aboutMe = ["**Currently working as a remote based Salesforce Consultant.**",
-    "Over 6 years of experience in IT world. Always eager to learn, always keen to help. ",
-    "Lately focused mostly on crafting beautiful Lightning components and working my way up towards Salesforce Certifications. Remote work enthusiast. A chronic perfectionist. In my spare time I devour books (gotta love my Kindle) and hike every mountain range possible. ",
+    aboutMe = ["**Currently leading [Peakforce](https://www.peakforce.dev/) where I help companies get the most out of Atlassian and Splunk platforms.**",
+    "Over a decade in the IT world taught me that learning never stops and teamwork is everything. I like to keep things simple, practical and human.",
+    "Working (mostly) remotely since 2018. In my spare I am usually either riding/bikepacking on my gravel bike or hiking in the mountains. ",
     "I <i class=heart-icon data-feather=heart></i> all board sports: snowboard, surfing, wake, kite (still <i>ToDo</i>) and [splitboard](https://www.nonstopsnow.com/journal/what-is-splitboarding).",
-    "I also write [a bit](/post/)."]
+    "Tennis is my newly rediscovered hobby (after a 15 year brake).",
+    "I used to write [a bit](/post/). Nowadays I do it mostly on [LinkedIn](https://www.linkedin.com/in/wiktordyngosz/)."]
